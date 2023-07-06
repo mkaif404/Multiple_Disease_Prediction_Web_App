@@ -7,7 +7,7 @@ This is a temporary script file.
 
 # -*- coding: utf-8 -*-
 """
-@author: Kaif, Kashan and Sakshi.
+@author: Kaif, Kashan.
 """ 
 
 import pickle
